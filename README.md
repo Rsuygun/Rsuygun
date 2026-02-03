@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramazan Serhat UYGUN</h1>
-<h3 align="center">WEB Developer - Computer Engineering Student</h3>
+<h3 align="center">Full Stack Developer - Computer Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsuygun&label=Profile%20views&color=0e75b6&style=flat" alt="rsuygun" /> </p>
 
